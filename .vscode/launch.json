@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "HelloServlet",
+            "request": "launch",
+            "mainClass": "hello.HelloServlet",
+            "projectName": "WebApplication1_2a659d4b"
+        }
+    ]
+}
